@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <show.h>
 
-
 int main() {
-	showWelcomeMsg();
+	showWelcomeMsg(); // call
 }
